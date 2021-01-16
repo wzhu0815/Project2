@@ -28,14 +28,14 @@ body{
   
 
   .big-banner{
-    background-image: url(/images/backgroundair.jpg);
+    background-image: url ("../images/background.jpg");
     background-size: 100%;
   }
-
+/* 
   .big-banner1{
     background-image: url(/images/sky1.jpg);
     background-size: 100%;
-  }
+  } */
   .content-wrapper {
     padding-bottom: 50px;
   }
