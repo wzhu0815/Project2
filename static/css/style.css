@@ -1,0 +1,126 @@
+/* set the body's background color */
+body{
+    background-color: #b4b3b9;
+  }
+  
+  /* navbar styling */
+  .navbar-light{
+    background-color: rgba(170, 129, 138, 0.993);
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xlarge ;
+    
+  }
+
+
+  /* footer styles */
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(129, 129, 129);
+    color:#fff;
+    height: 60px;
+    font-size: 85%;
+  }
+  
+
+  .big-banner{
+    background-image: url(/images/backgroundair.jpg);
+    background-size: 100%;
+  }
+
+  .big-banner1{
+    background-image: url(/images/sky1.jpg);
+    background-size: 100%;
+  }
+  .content-wrapper {
+    padding-bottom: 50px;
+  }
+  
+  /* map area height adjustment */
+  #map {
+    position: absolute;
+    border-top: 5px solid rgb(68, 68, 68);
+    top: 95px;
+    right: 0;
+    bottom: 30px;
+    left: 0;
+  }
+  
+  /* header styles */
+  h6 {
+    padding:10px;
+    text-align: center;
+    background-color:lightgray;
+  }
+  
+  /* row class padding  */
+  .row{
+    padding-top:10px;
+    padding-bottom: 10px;
+  }
+  
+  /* add legends syles */
+  .legend {
+    line-height: 18px;
+    color:rgb(63, 62, 62);
+    background-color:white;
+    padding:3px
+  }
+  .legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+    
+  }
+  
+  /* links colors */
+  a{
+    color: rgb(245, 245, 245);
+  }
+  
+  /* set links icon left margin */
+  i {
+    margin-left: 5px;
+  }
+  
+  .popup {
+    pointer-events: none;
+  }
+  
+  /* small screen adjustments*/
+  @media(max-width:992px){
+    
+    #navbarSupportedContent {
+      display: block;
+    }
+  
+    #map {
+      top: 150px;
+    }
+  
+    .subtitle {
+      height: 36px;
+      font-size: 85%;
+    }
+  }
+  
+  @media(max-width:767px){
+    .thumbnail{
+      width: 40%
+    }
+  
+    #map {
+      top: 172px;
+    }
+  
+    .subtitle {
+      height: 36px;
+      font-size: 65%;
+    }
+  }
