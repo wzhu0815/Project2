@@ -26,6 +26,8 @@ def scrape():
     
     browser.quit()
     return table
+
+    tablehtml
     
 
 
