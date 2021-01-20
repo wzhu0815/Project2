@@ -1,0 +1,8 @@
+jumbotron {
+  height: 500px;
+  display: flex;
+  align-items: center;
+  background: url(https://images.all-free-download.com/images/graphiclarge/flying_plane_190518.jpg); center center;
+  background-size: cover;
+  margin: 100px 0px;
+}

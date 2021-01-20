@@ -1,0 +1,1489 @@
+Airline,Origin,Delay (min),Airport
+9E,ABY,-2.5,Southwest Georgia Regional Airport
+9E,AEX,16.5,Alexandria International Airport
+9E,AGS,32,Augusta Regional Airport (Bush Field)
+9E,ATL,17.39344262,Hartsfield–Jackson Atlanta International Airport
+9E,ATW,-6,Appleton International Airport
+9E,AUS,-0.666666667,Austin–Bergstrom International Airport
+9E,AVL,52.66666667,Asheville Regional Airport
+9E,BGR,-5,Bangor International Airport
+9E,BIS,-9.5,Bismarck Municipal Airport
+9E,BMI,92,Central Illinois Regional Airport at Bloomington-Normal
+9E,BNA,-0.75,Nashville International Airport (Berry Field)
+9E,BOS,34.5,Gen. Edward Lawrence Logan International Airport
+9E,BQK,-5.5,Brunswick Golden Isles Airport
+9E,BTV,14.5,Burlington International Airport
+9E,BUF,34.33333333,Buffalo Niagara International Airport
+9E,BWI,-4,Baltimore/Washington International Airport
+9E,CAE,172,Columbia Metropolitan Airport
+9E,CHA,101.5,Chattanooga Metropolitan Airport (Lovell Field)
+9E,CHS,-7,Charleston International Airport / Charleston AFB
+9E,CID,-3,The Eastern Iowa Airport
+9E,CLE,15.83333333,Cleveland Hopkins International Airport
+9E,CLT,-5,Charlotte/Douglas International Airport
+9E,CMH,100,John Glenn Columbus International Airport
+9E,CSG,-11,Columbus Metropolitan Airport
+9E,CVG,13.57142857,Cincinnati/Northern Kentucky International Airport
+9E,CWA,-12,Central Wisconsin Airport
+9E,DAY,-8,James M. Cox Dayton International Airport
+9E,DCA,49,Ronald Reagan Washington National Airport
+9E,DFW,,Dallas/Fort Worth International Airport
+9E,DHN,-8,Dothan Regional Airport
+9E,DSM,183.6666667,Des Moines International Airport
+9E,DTW,8.860465116,Detroit Metropolitan Airport
+9E,ELM,-11,Elmira/Corning Regional Airport
+9E,EWN,-7,Coastal Carolina Regional Airport (was Craven County Regional)
+9E,EWR,-5,Newark Liberty International Airport
+9E,FAR,-3,Hector International Airport
+9E,FAY,90,Fayetteville Regional Airport (Grannis Field)
+9E,FSD,241,Sioux Falls Regional Airport (Joe Foss Field)
+9E,FSM,-2,Fort Smith Regional Airport
+9E,GFK,-6,Grand Forks International Airport
+9E,GNV,-9.666666667,Gainesville Regional Airport
+9E,GRB,223,Green Bay–Austin Straubel International Airport
+9E,GRR,1,Gerald R. Ford International Airport
+9E,GSO,-7,Piedmont Triad International Airport
+9E,GSP,56.5,Greenville–Spartanburg International Airport (Roger Milliken Field)
+9E,HRL,42,Valley International Airport
+9E,HSV,39,Huntsville International Airport (Carl T. Jones Field)
+9E,IAD,0.25,Washington Dulles International Airport
+9E,IAH,30.33333333,George Bush Intercontinental Airport
+9E,ILM,26.66666667,Wilmington International Airport
+9E,IND,125.5,Indianapolis International Airport
+9E,JAN,-7,Jackson–Medgar Wiley Evers International Airport
+9E,JAX,-5.5,Jacksonville International Airport
+9E,JFK,5.769230769,John F. Kennedy International Airport (was New York International Airport)
+9E,LAN,-6.666666667,Capital Region International Airport (was Lansing Capital City)
+9E,LEX,-9,Blue Grass Airport
+9E,LFT,-7,Lafayette Regional Airport
+9E,LGA,15.34782609,LaGuardia Airport (and Marine Air Terminal)
+9E,MCI,,Kansas City International Airport (originally Mid-Continent International Airport)
+9E,MCO,22,Orlando International Airport
+9E,MDT,1,Harrisburg International Airport
+9E,MGM,-8,Montgomery Regional Airport (Dannelly Field)
+9E,MKE,-6,Milwaukee Mitchell International Airport
+9E,MOB,-2.333333333,Mobile Regional Airport
+9E,MOT,107.5,Minot International Airport
+9E,MSN,94,Dane County Regional Airport (Truax Field)
+9E,MSP,48.74285714,Minneapolis–St. Paul International Airport (Wold–Chamberlain Field)
+9E,OAJ,-6,Albert J. Ellis Airport
+9E,OMA,20,Eppley Airfield
+9E,ORD,16,Chicago O'Hare International Airport
+9E,ORF,-7.333333333,Norfolk International Airport
+9E,PHL,14.5,Philadelphia International Airport
+9E,PIA,40,General Wayne A. Downing Peoria International Airport
+9E,PIT,-3.8,Pittsburgh International Airport
+9E,PWM,50.33333333,Portland International Jetport
+9E,RDU,-0.333333333,Raleigh–Durham International Airport
+9E,RIC,1.333333333,Richmond International Airport (Byrd Field)
+9E,ROC,-3.285714286,Greater Rochester International Airport
+9E,RSW,-6,Southwest Florida International Airport
+9E,SAT,-1.5,San Antonio International Airport
+9E,SRQ,-7,Sarasota–Bradenton International Airport
+9E,STL,-5,St. Louis Lambert International Airport
+9E,SYR,-4.8,Syracuse Hancock International Airport
+9E,TLH,56.5,Tallahassee International Airport
+9E,TRI,55,Tri-Cities Regional Airport (Tri-Cities Regional TN/VA)
+9E,TVC,-4,Cherry Capital Airport (was Cherry County Airpark)
+9E,TYS,-6.111111111,McGhee Tyson Airport
+9E,VLD,11,Valdosta Regional Airport
+AA,ABQ,19.57142857,#N/A
+AA,ALB,-5.5,#N/A
+AA,ATL,2.741935484,#N/A
+AA,AUS,14.75862069,#N/A
+AA,BDL,2.2,#N/A
+AA,BNA,27,#N/A
+AA,BOI,80.33333333,#N/A
+AA,BOS,28.47169811,#N/A
+AA,BUF,-1.333333333,#N/A
+AA,BWI,6.722222222,#N/A
+AA,CHS,39.66666667,#N/A
+AA,CLE,25.66666667,#N/A
+AA,CLT,13.96326531,#N/A
+AA,CMH,0.857142857,#N/A
+AA,COS,12.2,#N/A
+AA,CVG,25,#N/A
+AA,DAY,54,#N/A
+AA,DCA,7.527272727,#N/A
+AA,DEN,39.3125,#N/A
+AA,DFW,33.6819407,#N/A
+AA,DSM,156,#N/A
+AA,DTW,89.6,#N/A
+AA,EGE,191.5714286,#N/A
+AA,ELP,10.25,El Paso International Airport
+AA,EWR,32.7826087,Newark Liberty International Airport
+AA,FAT,2.25,Fresno Yosemite International Airport
+AA,FLL,22,Fort Lauderdale–Hollywood International Airport
+AA,GEG,-2.5,Spokane International Airport (Geiger Field)
+AA,GSP,237,Greenville–Spartanburg International Airport (Roger Milliken Field)
+AA,GUC,81.5,Gunnison–Crested Butte Regional Airport
+AA,HDN,3.5,Yampa Valley Airport (Yampa Valley Regional)
+AA,HNL,-10,Daniel K. Inouye International Airport
+AA,IAD,11.5,Washington Dulles International Airport
+AA,IAH,17.11764706,George Bush Intercontinental Airport
+AA,ICT,,Wichita Dwight D. Eisenhower National Airport (formerly Wichita Mid-Continent Airport)
+AA,ILM,-8,Wilmington International Airport
+AA,IND,28.44444444,Indianapolis International Airport
+AA,JAC,121,Jackson Hole Airport
+AA,JAX,14.6,Jacksonville International Airport
+AA,JFK,22.93333333,John F. Kennedy International Airport (was New York International Airport)
+AA,KOA,19.66666667,Ellison Onizuka Kona International Airport at Keahole
+AA,LAS,8.119047619,McCarran International Airport
+AA,LAX,31.60714286,Los Angeles International Airport
+AA,LBB,50,Lubbock Preston Smith International Airport
+AA,LGA,32.97826087,LaGuardia Airport (and Marine Air Terminal)
+AA,LIH,25.33333333,Lihue Airport
+AA,MCI,14.71428571,Kansas City International Airport (originally Mid-Continent International Airport)
+AA,MCO,41.31481481,Orlando International Airport
+AA,MDT,17,Harrisburg International Airport
+AA,MEM,23.16666667,Memphis International Airport
+AA,MFE,125,McAllen Miller International Airport
+AA,MIA,43.04109589,Miami International Airport
+AA,MKE,-4.5,Milwaukee Mitchell International Airport
+AA,MSP,31.55,Minneapolis–St. Paul International Airport (Wold–Chamberlain Field)
+AA,MSY,19,Louis Armstrong New Orleans International Airport
+AA,MTJ,54,Montrose Regional Airport
+AA,OAK,-9.333333333,Oakland International Airport
+AA,OGG,4.888888889,Kahului Airport
+AA,OKC,28.75,Will Rogers World Airport
+AA,OMA,15,Eppley Airfield
+AA,ONT,1.777777778,Ontario International Airport
+AA,ORD,27.76331361,Chicago O'Hare International Airport
+AA,ORF,18.44444444,Norfolk International Airport
+AA,PBI,3.166666667,Palm Beach International Airport
+AA,PDX,1.636363636,Portland International Airport
+AA,PHL,17.09160305,Philadelphia International Airport
+AA,PHX,17.4969697,Phoenix Sky Harbor International Airport
+AA,PIT,20.21052632,Pittsburgh International Airport
+AA,PNS,12,Pensacola International Airport
+AA,PSP,13,Palm Springs International Airport
+AA,PVD,28.875,Theodore Francis Green State Airport
+AA,PWM,-0.5,Portland International Jetport
+AA,RDU,24.11538462,Raleigh–Durham International Airport
+AA,RIC,-4.25,Richmond International Airport (Byrd Field)
+AA,RNO,23.83333333,Reno/Tahoe International Airport
+AA,RSW,15.8125,Southwest Florida International Airport
+AA,SAN,5.481481481,San Diego International Airport (Lindbergh Field)
+AA,SAT,1.157894737,San Antonio International Airport
+AA,SAV,18,Savannah/Hilton Head International Airport
+AA,SBA,0,Santa Barbara Municipal Airport (Santa Barbara Airport)
+AA,SEA,0.04,Seattle–Tacoma International Airport
+AA,SFO,14.51282051,San Francisco International Airport
+AA,SJC,25.90909091,Norman Y. Mineta San José International Airport
+AA,SJU,17.71428571,Luis Muñoz Marín International Airport
+AA,SLC,2.384615385,Salt Lake City International Airport
+AA,SMF,5.416666667,Sacramento International Airport
+AA,SNA,36.35294118,John Wayne Airport (was Orange County Airport)
+AA,STL,7.866666667,St. Louis Lambert International Airport
+AA,STT,-14.5,Cyril E. King Airport
+AA,STX,-13.5,Henry E. Rohlsen Airport
+AA,SYR,-9,Syracuse Hancock International Airport
+AA,TPA,23.23076923,Tampa International Airport
+AA,TUL,-4.375,Tulsa International Airport
+AA,TUS,13.28571429,Tucson International Airport
+AA,VPS,69.33333333,Destin–Fort Walton Beach Airport / Eglin Air Force Base
+AS,ABQ,-4,#N/A
+AS,ADQ,-16,#N/A
+AS,ANC,-3.838709677,#N/A
+AS,ATL,1,#N/A
+AS,AUS,25.33333333,#N/A
+AS,BET,-2,#N/A
+AS,BLI,2,#N/A
+AS,BNA,-1,#N/A
+AS,BOI,-5,#N/A
+AS,BOS,42.5,#N/A
+AS,BRW,-10,#N/A
+AS,BUR,9.4,#N/A
+AS,BWI,12,#N/A
+AS,CHS,-7,#N/A
+AS,DCA,-9.666666667,#N/A
+AS,DEN,15.33333333,#N/A
+AS,DFW,12.75,#N/A
+AS,DTW,39,#N/A
+AS,EWR,9.5,#N/A
+AS,FAI,-6.4,#N/A
+AS,FLL,-1,#N/A
+AS,GEG,-7.5,#N/A
+AS,HNL,20.16666667,#N/A
+AS,IAD,-3,#N/A
+AS,IAH,22,#N/A
+AS,IND,35,#N/A
+AS,JFK,-2,#N/A
+AS,JNU,18.33333333,#N/A
+AS,KOA,-8.25,#N/A
+AS,KTN,4.333333333,#N/A
+AS,LAS,-9.25,#N/A
+AS,LAX,11.04545455,#N/A
+AS,LIH,4,#N/A
+AS,MCI,0,Kansas City International Airport (originally Mid-Continent International Airport)
+AS,MCO,64,Orlando International Airport
+AS,MSP,7.5,Minneapolis–St. Paul International Airport (Wold–Chamberlain Field)
+AS,MSY,12,Louis Armstrong New Orleans International Airport
+AS,OAK,7.666666667,Oakland International Airport
+AS,OGG,1.666666667,Kahului Airport
+AS,OMA,19,Eppley Airfield
+AS,OME,12,Nome Airport
+AS,ONT,-5.333333333,Ontario International Airport
+AS,ORD,5.666666667,Chicago O'Hare International Airport
+AS,OTZ,22,Ralph Wien Memorial Airport
+AS,PDX,2.24,Portland International Airport
+AS,PHL,4,Philadelphia International Airport
+AS,PHX,6.625,Phoenix Sky Harbor International Airport
+AS,PSG,72,Petersburg James A. Johnson Airport
+AS,PSP,-3.4,Palm Springs International Airport
+AS,RDU,-8,Raleigh–Durham International Airport
+AS,SAN,48.64705882,San Diego International Airport (Lindbergh Field)
+AS,SAT,-5,San Antonio International Airport
+AS,SBA,-3,Santa Barbara Municipal Airport (Santa Barbara Airport)
+AS,SCC,-20.5,Deadhorse Airport (Prudhoe Bay Airport)
+AS,SEA,0.136645963,Seattle–Tacoma International Airport
+AS,SFO,9.647058824,San Francisco International Airport
+AS,SIT,-2.5,Sitka Rocky Gutierrez Airport
+AS,SJC,-6.142857143,Norman Y. Mineta San José International Airport
+AS,SLC,-5.142857143,Salt Lake City International Airport
+AS,SMF,-1.375,Sacramento International Airport
+AS,SNA,-6.5,John Wayne Airport (was Orange County Airport)
+AS,STL,-12.5,St. Louis Lambert International Airport
+AS,TPA,-7,Tampa International Airport
+AS,TUS,2,Tucson International Airport
+AS,WRG,,Wrangell Airport (also see Wrangell Seaplane Base)
+B6,ABQ,12,#N/A
+B6,ALB,45.5,#N/A
+B6,ATL,41.4,#N/A
+B6,AUS,98.33333333,#N/A
+B6,BDL,38,#N/A
+B6,BNA,12.33333333,#N/A
+B6,BOS,35.21705426,#N/A
+B6,BQN,17.25,#N/A
+B6,BTV,7,#N/A
+B6,BUF,19.30769231,#N/A
+B6,BUR,15,#N/A
+B6,BWI,13.16666667,#N/A
+B6,CHS,36.33333333,#N/A
+B6,CLE,8.75,#N/A
+B6,CLT,30.66666667,#N/A
+B6,DAB,42,#N/A
+B6,DCA,12.96551724,#N/A
+B6,DEN,-9.333333333,#N/A
+B6,DFW,93,#N/A
+B6,DTW,-8.25,#N/A
+B6,EWR,40.17241379,#N/A
+B6,FLL,31.68831169,#N/A
+B6,HOU,7,#N/A
+B6,HPN,51.90909091,#N/A
+B6,IAD,12.83333333,#N/A
+B6,JAX,12.3,#N/A
+B6,JFK,25.448,#N/A
+B6,LAS,6.545454545,#N/A
+B6,LAX,27.47058824,#N/A
+B6,LGA,34.11764706,#N/A
+B6,LGB,11,#N/A
+B6,MCO,57.92063492,#N/A
+B6,MSY,23.8,#N/A
+B6,OAK,-2.6,#N/A
+B6,ORD,30.2,#N/A
+B6,ORH,-1.5,#N/A
+B6,PBI,47.375,#N/A
+B6,PDX,17.33333333,#N/A
+B6,PHL,-1.333333333,#N/A
+B6,PHX,-4.5,#N/A
+B6,PIT,9,#N/A
+B6,PSE,41.66666667,Mercedita International Airport
+B6,PSP,-13,Palm Springs International Airport
+B6,PVD,84,Theodore Francis Green State Airport
+B6,PWM,32.66666667,Portland International Jetport
+B6,RDU,66.85714286,Raleigh–Durham International Airport
+B6,RIC,28.71428571,Richmond International Airport (Byrd Field)
+B6,RNO,-6,Reno/Tahoe International Airport
+B6,ROC,36,Greater Rochester International Airport
+B6,RSW,11.75,Southwest Florida International Airport
+B6,SAN,32.2,San Diego International Airport (Lindbergh Field)
+B6,SAV,18,Savannah/Hilton Head International Airport
+B6,SEA,16.6,Seattle–Tacoma International Airport
+B6,SFO,6.071428571,San Francisco International Airport
+B6,SJC,-3,Norman Y. Mineta San José International Airport
+B6,SJU,29.20689655,Luis Muñoz Marín International Airport
+B6,SLC,18.5,Salt Lake City International Airport
+B6,SMF,60.66666667,Sacramento International Airport
+B6,SRQ,19,Sarasota–Bradenton International Airport
+B6,STT,-4,Cyril E. King Airport
+B6,STX,8,Henry E. Rohlsen Airport
+B6,SWF,42.5,Stewart International Airport
+B6,SYR,23.4,Syracuse Hancock International Airport
+B6,TPA,38.70588235,Tampa International Airport
+DL,ABQ,40.66666667,#N/A
+DL,ALB,71,#N/A
+DL,ANC,-5.333333333,#N/A
+DL,ATL,12.28026906,#N/A
+DL,ATW,-1,#N/A
+DL,AUS,-1.909090909,#N/A
+DL,AVP,4,#N/A
+DL,BDL,16.57142857,#N/A
+DL,BHM,18,#N/A
+DL,BIL,47.5,#N/A
+DL,BIS,-5,#N/A
+DL,BNA,30.71428571,#N/A
+DL,BOI,-3.333333333,#N/A
+DL,BOS,21.53125,#N/A
+DL,BUF,66.8,#N/A
+DL,BWI,16.83333333,#N/A
+DL,BZN,9.166666667,#N/A
+DL,CAK,55.5,#N/A
+DL,CHA,2.5,#N/A
+DL,CHO,-11,#N/A
+DL,CHS,0.75,#N/A
+DL,CID,-10,#N/A
+DL,CLE,0.25,#N/A
+DL,CLT,2.333333333,#N/A
+DL,CMH,7.333333333,#N/A
+DL,COS,1,#N/A
+DL,CVG,19.09090909,#N/A
+DL,DAB,0.25,#N/A
+DL,DAL,23.33333333,#N/A
+DL,DAY,-2,#N/A
+DL,DCA,7.375,#N/A
+DL,DEN,8.826086957,#N/A
+DL,DFW,2.090909091,#N/A
+DL,DTW,10.33695652,#N/A
+DL,ECP,3,#N/A
+DL,EGE,-2,#N/A
+DL,ELP,31,#N/A
+DL,EWR,50.66666667,#N/A
+DL,EYW,32,#N/A
+DL,FAI,-6,#N/A
+DL,FAR,17,#N/A
+DL,FAY,1,#N/A
+DL,FLL,20.23076923,#N/A
+DL,FNT,11,#N/A
+DL,FSD,0,#N/A
+DL,GEG,17.25,#N/A
+DL,GPT,10,#N/A
+DL,GRR,27.6,#N/A
+DL,GSO,33.5,#N/A
+DL,GSP,11,#N/A
+DL,HDN,-1,#N/A
+DL,HNL,5.5,#N/A
+DL,HOU,-5.333333333,#N/A
+DL,HSV,-4,#N/A
+DL,IAD,33.4,#N/A
+DL,IAH,14.2,#N/A
+DL,ICT,-7,#N/A
+DL,IND,17.875,#N/A
+DL,JAC,-1.5,#N/A
+DL,JAN,5,#N/A
+DL,JAX,16.33333333,#N/A
+DL,JFK,13.05555556,#N/A
+DL,KOA,13.33333333,#N/A
+DL,LAS,6.08,#N/A
+DL,LAX,3.17721519,#N/A
+DL,LEX,15,#N/A
+DL,LGA,9.138461538,#N/A
+DL,LIH,-2.5,#N/A
+DL,LIT,-1,#N/A
+DL,MCI,27.90909091,#N/A
+DL,MCO,10.57692308,#N/A
+DL,MDT,-4,#N/A
+DL,MDW,70,#N/A
+DL,MEM,19.75,#N/A
+DL,MHT,-3,#N/A
+DL,MIA,3.75862069,#N/A
+DL,MKE,20.42857143,#N/A
+DL,MLB,11.33333333,#N/A
+DL,MSN,100.5,#N/A
+DL,MSO,-1.5,#N/A
+DL,MSP,7.457627119,#N/A
+DL,MSY,11.5,#N/A
+DL,MTJ,-3,#N/A
+DL,MYR,-1,#N/A
+DL,OAK,-1,#N/A
+DL,OGG,-7.4,#N/A
+DL,OKC,0,#N/A
+DL,OMA,19.25,#N/A
+DL,ORD,40,#N/A
+DL,ORF,35.4,#N/A
+DL,PBI,33.05,#N/A
+DL,PDX,-2.764705882,#N/A
+DL,PHL,8,#N/A
+DL,PHX,1.85,#N/A
+DL,PIT,10.33333333,#N/A
+DL,PNS,14.4,#N/A
+DL,PSP,-4,#N/A
+DL,PVD,7,#N/A
+DL,PWM,-6,#N/A
+DL,RDU,2.416666667,#N/A
+DL,RIC,3.2,#N/A
+DL,RNO,15.5,#N/A
+DL,ROA,-5,#N/A
+DL,ROC,37.5,#N/A
+DL,RSW,3.708333333,#N/A
+DL,SAN,24.21428571,#N/A
+DL,SAT,3.833333333,#N/A
+DL,SAV,12,#N/A
+DL,SDF,-1.666666667,#N/A
+DL,SEA,7.781818182,#N/A
+DL,SFO,1.666666667,#N/A
+DL,SJC,-4.333333333,#N/A
+DL,SJU,1.4,#N/A
+DL,SLC,3.797752809,#N/A
+DL,SMF,-2.25,#N/A
+DL,SNA,-3.5,#N/A
+DL,SRQ,-7.142857143,#N/A
+DL,STL,32,#N/A
+DL,STT,53,#N/A
+DL,STX,-5,#N/A
+DL,SYR,0,#N/A
+DL,TLH,1,#N/A
+DL,TPA,9.566666667,#N/A
+DL,TRI,10,#N/A
+DL,TUL,-7,#N/A
+DL,TUS,20.66666667,#N/A
+DL,VPS,-5.5,#N/A
+DL,XNA,-4,#N/A
+EV,ABE,-2,#N/A
+EV,ABQ,8,#N/A
+EV,AEX,-9.5,#N/A
+EV,AGS,12,#N/A
+EV,AMA,132,#N/A
+EV,ATL,36.54347826,#N/A
+EV,AVP,106,#N/A
+EV,BDL,-6,#N/A
+EV,BGR,276,#N/A
+EV,BHM,5.8,#N/A
+EV,BNA,176,#N/A
+EV,BOS,6.25,#N/A
+EV,BRO,,#N/A
+EV,BTR,5.2,#N/A
+EV,BTV,40,#N/A
+EV,BUF,97,#N/A
+EV,BWI,38.5,#N/A
+EV,CAE,13.5,#N/A
+EV,CAK,65,#N/A
+EV,CHA,12,#N/A
+EV,CHS,4.4,#N/A
+EV,CLE,24.5,#N/A
+EV,CLL,23,#N/A
+EV,CLT,-4,#N/A
+EV,CMH,31,#N/A
+EV,COS,-7,#N/A
+EV,COU,81,#N/A
+EV,CRP,-8.5,#N/A
+EV,CRW,25.75,#N/A
+EV,DAY,24,#N/A
+EV,DCA,39.83333333,#N/A
+EV,DFW,27.93333333,#N/A
+EV,DSM,89,#N/A
+EV,DTW,78,#N/A
+EV,ECP,1.2,#N/A
+EV,ELM,-1,#N/A
+EV,ELP,-5.75,#N/A
+EV,EVV,41,#N/A
+EV,EWR,32.40384615,#N/A
+EV,EYW,12,#N/A
+EV,FNT,3,#N/A
+EV,FSD,-6.666666667,#N/A
+EV,FSM,-11,#N/A
+EV,FWA,-1,#N/A
+EV,GNV,17,#N/A
+EV,GPT,-6.25,#N/A
+EV,GRK,306,#N/A
+EV,GRR,-6,#N/A
+EV,GSO,-8,#N/A
+EV,GSP,-3.5,#N/A
+EV,HOB,-8,#N/A
+EV,HPN,68.25,#N/A
+EV,HSV,-4.75,#N/A
+EV,IAH,-0.105769231,#N/A
+EV,ICT,-7,#N/A
+EV,IND,-8.6,#N/A
+EV,JAN,-6.833333333,#N/A
+EV,LBB,28.5,#N/A
+EV,LCH,1.5,#N/A
+EV,LEX,4,#N/A
+EV,LFT,2,#N/A
+EV,LGA,10.36363636,#N/A
+EV,LIT,-1,#N/A
+EV,LNK,3,#N/A
+EV,LRD,,#N/A
+EV,MAF,24.4,#N/A
+EV,MEM,19.33333333,#N/A
+EV,MFE,-5,#N/A
+EV,MHK,1,#N/A
+EV,MHT,-8,#N/A
+EV,MKE,17.6,#N/A
+EV,MLI,-2,#N/A
+EV,MLU,-5.25,#N/A
+EV,MOB,1.5,#N/A
+EV,MSN,17.66666667,#N/A
+EV,MSP,54.75,#N/A
+EV,MYR,-3,#N/A
+EV,OMA,27.4,#N/A
+EV,ORD,16.11363636,#N/A
+EV,ORF,22.5,#N/A
+EV,PHF,25,#N/A
+EV,PHL,15,#N/A
+EV,PIT,-4,#N/A
+EV,PNS,21,#N/A
+EV,PVD,14.75,#N/A
+EV,PWM,33,#N/A
+EV,RIC,12.2,#N/A
+EV,ROC,3.5,#N/A
+EV,ROW,116,#N/A
+EV,RST,-5,#N/A
+EV,SAF,21.5,#N/A
+EV,SAV,1.5,#N/A
+EV,SBN,6.5,#N/A
+EV,SDF,33.75,#N/A
+EV,SGF,23.25,#N/A
+EV,SHV,-6.666666667,#N/A
+EV,STL,44.42857143,#N/A
+EV,TLH,-4,#N/A
+EV,TUL,-0.75,#N/A
+EV,TUS,-23,#N/A
+EV,TYS,-1.5,#N/A
+EV,VPS,26.25,#N/A
+EV,XNA,4,#N/A
+F9,ABQ,-5.5,#N/A
+F9,ATL,74.375,#N/A
+F9,AUS,74.5,#N/A
+F9,BNA,-3.75,#N/A
+F9,BUF,68.5,#N/A
+F9,CLE,4.666666667,#N/A
+F9,CLT,23.33333333,#N/A
+F9,CMH,20,#N/A
+F9,COS,6.4,#N/A
+F9,CVG,5.142857143,#N/A
+F9,DCA,-6.666666667,#N/A
+F9,DEN,15.14,#N/A
+F9,DFW,-5,#N/A
+F9,DTW,-8,#N/A
+F9,GRR,,#N/A
+F9,IAD,119.6666667,#N/A
+F9,IAH,10.5,#N/A
+F9,IND,3.666666667,#N/A
+F9,ISP,52.57142857,#N/A
+F9,LAS,48.66666667,#N/A
+F9,LAX,2.333333333,#N/A
+F9,LGA,-2,#N/A
+F9,MCI,-11.5,#N/A
+F9,MCO,73.02702703,#N/A
+F9,MEM,14,#N/A
+F9,MIA,56.18181818,#N/A
+F9,MKE,24.71428571,#N/A
+F9,MSP,18.66666667,#N/A
+F9,MSY,31.25,#N/A
+F9,OKC,6.5,#N/A
+F9,OMA,-15.33333333,#N/A
+F9,ONT,-1,#N/A
+F9,ORD,36.14285714,#N/A
+F9,PBI,83,#N/A
+F9,PDX,-9,#N/A
+F9,PHL,45.9,#N/A
+F9,PHX,-3,#N/A
+F9,PSP,1,#N/A
+F9,PVD,280,#N/A
+F9,RDU,38.5,#N/A
+F9,RSW,45.54545455,#N/A
+F9,SAN,15.5,#N/A
+F9,SAT,,#N/A
+F9,SEA,-9.5,#N/A
+F9,SFO,-0.75,#N/A
+F9,SJC,20.5,#N/A
+F9,SLC,61,#N/A
+F9,SNA,0,#N/A
+F9,STL,2.8,#N/A
+F9,TPA,27.30769231,#N/A
+F9,TTN,81.6,#N/A
+G4,ABE,7.5,#N/A
+G4,ABQ,3,#N/A
+G4,ATW,0,#N/A
+G4,AUS,10.33333333,#N/A
+G4,AVL,95.4,#N/A
+G4,AZA,4.9375,#N/A
+G4,BGR,2,#N/A
+G4,BIS,27.5,#N/A
+G4,BLI,17.75,#N/A
+G4,BLV,-3.666666667,#N/A
+G4,BMI,68,#N/A
+G4,BOI,22,#N/A
+G4,BZN,7.5,#N/A
+G4,CID,11,#N/A
+G4,CPR,100,#N/A
+G4,CVG,87.55555556,#N/A
+G4,DAY,13.5,#N/A
+G4,DSM,68.33333333,#N/A
+G4,EUG,402,#N/A
+G4,EWR,614,#N/A
+G4,FAR,-10,#N/A
+G4,FAT,-9,#N/A
+G4,FCA,5,#N/A
+G4,FLL,31.16666667,#N/A
+G4,FNT,59,#N/A
+G4,FSD,-9,#N/A
+G4,FWA,330,#N/A
+G4,GFK,22,#N/A
+G4,GJT,-2,#N/A
+G4,GRI,2.5,#N/A
+G4,GRR,138.6666667,#N/A
+G4,GSP,12.5,#N/A
+G4,HGR,26,#N/A
+G4,HTS,3.5,#N/A
+G4,IAG,27.66666667,#N/A
+G4,ICT,-8,#N/A
+G4,IND,44.33333333,#N/A
+G4,LAS,6.617647059,#N/A
+G4,LAX,54,#N/A
+G4,LCK,0,#N/A
+G4,LEX,74,#N/A
+G4,MCI,7.333333333,#N/A
+G4,MDT,-3,#N/A
+G4,MEM,-2,#N/A
+G4,MFE,0,#N/A
+G4,MFR,55,#N/A
+G4,MKE,19,#N/A
+G4,MLI,32.5,#N/A
+G4,MOT,-2,#N/A
+G4,MRY,0,#N/A
+G4,OAK,250.3333333,#N/A
+G4,OGD,2,#N/A
+G4,ORF,67,#N/A
+G4,OWB,49,#N/A
+G4,PBG,27.33333333,#N/A
+G4,PGD,26,#N/A
+G4,PIA,-13.5,#N/A
+G4,PIE,12.89285714,#N/A
+G4,PIT,18,#N/A
+G4,PSP,5,#N/A
+G4,PVD,15,#N/A
+G4,PVU,0,#N/A
+G4,RAP,7,#N/A
+G4,RDU,8,#N/A
+G4,RFD,65,#N/A
+G4,RNO,54,#N/A
+G4,ROA,79,#N/A
+G4,SAT,-13,#N/A
+G4,SBN,82,#N/A
+G4,SCK,12,#N/A
+G4,SFB,24.61904762,#N/A
+G4,SGF,12,#N/A
+G4,SMX,10,#N/A
+G4,SWF,-1,#N/A
+G4,SYR,-10,#N/A
+G4,TOL,1,#N/A
+G4,TRI,15,#N/A
+G4,TUL,10,#N/A
+G4,TYS,5.666666667,#N/A
+G4,USA,-2,#N/A
+G4,XNA,19,#N/A
+G4,YNG,15,#N/A
+HA,HNL,0.144444444,#N/A
+HA,ITO,-5,#N/A
+HA,JFK,25,#N/A
+HA,KOA,-3.173913043,#N/A
+HA,LAS,-0.5,#N/A
+HA,LAX,1.666666667,#N/A
+HA,LIH,-1.391304348,#N/A
+HA,OAK,31,#N/A
+HA,OGG,2.5,#N/A
+HA,PDX,-4,#N/A
+HA,PHX,6,#N/A
+HA,PPG,-11,#N/A
+HA,SAN,-5,#N/A
+HA,SEA,58.33333333,#N/A
+HA,SFO,42.5,#N/A
+HA,SJC,-6.5,#N/A
+HA,SMF,2,#N/A
+MQ,ABI,209.3333333,#N/A
+MQ,ABQ,-5,#N/A
+MQ,ACT,67,#N/A
+MQ,AEX,106.5,#N/A
+MQ,ALB,-2,#N/A
+MQ,ALO,6,#N/A
+MQ,AMA,-0.5,#N/A
+MQ,ATL,,#N/A
+MQ,ATW,2.5,#N/A
+MQ,AZO,1,#N/A
+MQ,BDL,29,#N/A
+MQ,BHM,-3.8,#N/A
+MQ,BIL,33,#N/A
+MQ,BIS,140,#N/A
+MQ,BNA,9.75,#N/A
+MQ,BOI,-8,#N/A
+MQ,BPT,4.333333333,#N/A
+MQ,BUF,0,#N/A
+MQ,BWI,-1.333333333,#N/A
+MQ,BZN,27,#N/A
+MQ,CAE,8,#N/A
+MQ,CHO,3,#N/A
+MQ,CHS,-2.333333333,#N/A
+MQ,CID,43.8,#N/A
+MQ,CLE,61.8,#N/A
+MQ,CLL,199.25,#N/A
+MQ,CLT,20.5,#N/A
+MQ,CMH,29.85714286,#N/A
+MQ,CMI,13.5,#N/A
+MQ,COU,29,#N/A
+MQ,CRP,32,#N/A
+MQ,CVG,48.36363636,#N/A
+MQ,CWA,2.5,#N/A
+MQ,DAY,37,#N/A
+MQ,DBQ,10,#N/A
+MQ,DCA,40,#N/A
+MQ,DFW,38.54,#N/A
+MQ,DSM,87.66666667,#N/A
+MQ,DTW,-5,#N/A
+MQ,ELP,-0.75,#N/A
+MQ,EVV,-6,#N/A
+MQ,EWR,13,#N/A
+MQ,FAR,30,#N/A
+MQ,FSD,11.25,#N/A
+MQ,FSM,17,#N/A
+MQ,GCK,18.5,#N/A
+MQ,GGG,35.5,#N/A
+MQ,GJT,14.33333333,#N/A
+MQ,GNV,,#N/A
+MQ,GRB,51,#N/A
+MQ,GRK,82,#N/A
+MQ,GRR,49.85714286,#N/A
+MQ,GSO,26.83333333,#N/A
+MQ,GSP,-2,#N/A
+MQ,HOU,-10,#N/A
+MQ,HPN,1,#N/A
+MQ,HSV,18,#N/A
+MQ,IAH,66,#N/A
+MQ,ICT,31.75,#N/A
+MQ,ILM,-1,#N/A
+MQ,IND,18.88888889,#N/A
+MQ,JAN,14.33333333,#N/A
+MQ,JAX,-1.5,#N/A
+MQ,JFK,10.42857143,#N/A
+MQ,JLN,19,#N/A
+MQ,LAN,11,#N/A
+MQ,LAW,39,#N/A
+MQ,LBB,69,#N/A
+MQ,LCH,14.5,#N/A
+MQ,LEX,6,#N/A
+MQ,LFT,43,#N/A
+MQ,LGA,3.578947368,#N/A
+MQ,LIT,16.14285714,#N/A
+MQ,LRD,,#N/A
+MQ,MAF,46,#N/A
+MQ,MCI,7,#N/A
+MQ,MDT,-1.5,#N/A
+MQ,MEM,10,#N/A
+MQ,MFE,22,#N/A
+MQ,MGM,,#N/A
+MQ,MHK,11.33333333,#N/A
+MQ,MIA,13.3125,#N/A
+MQ,MKE,22.5,#N/A
+MQ,MLI,3,#N/A
+MQ,MQT,0,#N/A
+MQ,MSN,43.4,#N/A
+MQ,MSY,89,#N/A
+MQ,MTJ,16.5,#N/A
+MQ,OKC,11.83333333,#N/A
+MQ,OMA,7.666666667,#N/A
+MQ,ORD,26.99264706,#N/A
+MQ,ORF,-1,#N/A
+MQ,PIT,4.571428571,#N/A
+MQ,PNS,31.16666667,#N/A
+MQ,PVD,18,#N/A
+MQ,RAP,51,#N/A
+MQ,RDU,-4.5,#N/A
+MQ,RIC,1.5,#N/A
+MQ,ROC,12,#N/A
+MQ,RST,-2,#N/A
+MQ,SAV,,#N/A
+MQ,SDF,8.333333333,#N/A
+MQ,SGF,37.71428571,#N/A
+MQ,SHV,59.5,#N/A
+MQ,SJT,56.5,#N/A
+MQ,SPI,63,#N/A
+MQ,SPS,78.66666667,#N/A
+MQ,STL,0,#N/A
+MQ,SUX,114.3333333,#N/A
+MQ,SWO,80,#N/A
+MQ,SYR,82.5,#N/A
+MQ,TLH,16,#N/A
+MQ,TOL,11,#N/A
+MQ,TUL,11.5,#N/A
+MQ,TVC,-7,#N/A
+MQ,TXK,4,#N/A
+MQ,TYR,45,#N/A
+MQ,VPS,25,#N/A
+MQ,XNA,39.33333333,#N/A
+NK,ACY,-3.9,#N/A
+NK,ATL,23.6,#N/A
+NK,BDL,13.33333333,#N/A
+NK,BOS,41.85714286,#N/A
+NK,BWI,29.05,#N/A
+NK,CAK,3.5,#N/A
+NK,CLE,27.28571429,#N/A
+NK,DEN,3.888888889,#N/A
+NK,DFW,11.95,#N/A
+NK,DTW,12.17241379,#N/A
+NK,EWR,-0.5,#N/A
+NK,FLL,13.7755102,#N/A
+NK,IAG,-11,#N/A
+NK,IAH,3.375,#N/A
+NK,LAS,10.47058824,#N/A
+NK,LAX,3.227272727,#N/A
+NK,LBE,15.33333333,#N/A
+NK,LGA,31.63636364,#N/A
+NK,MCI,29.5,#N/A
+NK,MCO,25.02702703,#N/A
+NK,MSP,35.30769231,#N/A
+NK,MSY,10,#N/A
+NK,MYR,14,#N/A
+NK,OAK,-6.6,#N/A
+NK,ORD,19.72,#N/A
+NK,PBG,67,#N/A
+NK,PBI,34,#N/A
+NK,PDX,56,#N/A
+NK,PHL,6.125,#N/A
+NK,PHX,10,#N/A
+NK,PIT,-1.142857143,#N/A
+NK,RSW,2.058823529,#N/A
+NK,SAN,36.8,#N/A
+NK,SEA,-4.333333333,#N/A
+NK,SJU,41.25,#N/A
+NK,TPA,31.22222222,#N/A
+OH,ABE,6.5,#N/A
+OH,AGS,33.5,#N/A
+OH,ALB,17,#N/A
+OH,ATL,8.5,#N/A
+OH,AVL,-3.6,#N/A
+OH,AVP,-1.75,#N/A
+OH,BDL,39.25,#N/A
+OH,BHM,20.55555556,#N/A
+OH,BNA,19.66666667,#N/A
+OH,BTR,37,#N/A
+OH,BTV,71.25,#N/A
+OH,BUF,-7,#N/A
+OH,CAE,1.333333333,#N/A
+OH,CAK,8,#N/A
+OH,CHA,23.6,#N/A
+OH,CHO,22.2,#N/A
+OH,CHS,9.666666667,#N/A
+OH,CID,165,#N/A
+OH,CLE,4.666666667,#N/A
+OH,CLT,26.68032787,#N/A
+OH,CMH,26,#N/A
+OH,CRW,32.2,#N/A
+OH,CVG,24,#N/A
+OH,DAB,7.25,#N/A
+OH,DAY,49.66666667,#N/A
+OH,DCA,45.63636364,#N/A
+OH,DSM,203,#N/A
+OH,DTW,10.6,#N/A
+OH,EVV,19,#N/A
+OH,EWN,50.8,#N/A
+OH,FAY,1.285714286,#N/A
+OH,FWA,9.5,#N/A
+OH,GNV,19,#N/A
+OH,GPT,161,#N/A
+OH,GRR,32.5,#N/A
+OH,GSO,17.33333333,#N/A
+OH,GSP,22.85714286,#N/A
+OH,HPN,55,#N/A
+OH,HSV,14,#N/A
+OH,HVN,27.33333333,#N/A
+OH,IAD,7.5,#N/A
+OH,ILM,2.285714286,#N/A
+OH,IND,44.75,#N/A
+OH,JAN,6.5,#N/A
+OH,JAX,36.66666667,#N/A
+OH,LEX,0,#N/A
+OH,LGA,41.33333333,#N/A
+OH,LIT,30.33333333,#N/A
+OH,MDT,29,#N/A
+OH,MEM,40,#N/A
+OH,MGM,-5,#N/A
+OH,MHT,40,#N/A
+OH,MKE,7.25,#N/A
+OH,MLB,38,#N/A
+OH,MOB,47,#N/A
+OH,MSN,1,#N/A
+OH,MYR,22.14285714,#N/A
+OH,OAJ,22,#N/A
+OH,OKC,-4,#N/A
+OH,OMA,-2,#N/A
+OH,ORD,113.5,#N/A
+OH,ORF,-4.5,#N/A
+OH,PHF,17.6,#N/A
+OH,PHL,31.53846154,#N/A
+OH,PIA,47,#N/A
+OH,PIT,49.33333333,#N/A
+OH,PNS,1,#N/A
+OH,PVD,,#N/A
+OH,PWM,38,#N/A
+OH,RDU,56,#N/A
+OH,RIC,26.88888889,#N/A
+OH,ROC,34.4,#N/A
+OH,RSW,38,#N/A
+OH,SAV,25.875,#N/A
+OH,SDF,-0.6,#N/A
+OH,SHV,10,#N/A
+OH,SRQ,48.4,#N/A
+OH,STL,81,#N/A
+OH,SYR,19,#N/A
+OH,TLH,36.2,#N/A
+OH,TOL,22.5,#N/A
+OH,TUL,-2,#N/A
+OH,TYS,8.555555556,#N/A
+OH,VPS,14.33333333,#N/A
+OH,XNA,39,#N/A
+OO,ABE,21,#N/A
+OO,ABQ,-0.8,#N/A
+OO,ABR,0.5,#N/A
+OO,ACV,20,#N/A
+OO,AGS,19.5,#N/A
+OO,ALB,83,#N/A
+OO,AMA,100,#N/A
+OO,APN,8,#N/A
+OO,ASE,53.81081081,#N/A
+OO,ATL,59.47058824,#N/A
+OO,ATW,-5,#N/A
+OO,AUS,171.4,#N/A
+OO,AVL,217.5,#N/A
+OO,AVP,9,#N/A
+OO,AZO,-12,#N/A
+OO,BDL,58,#N/A
+OO,BFL,-9.333333333,#N/A
+OO,BGM,-7,#N/A
+OO,BHM,68.5,#N/A
+OO,BIL,126.2,#N/A
+OO,BIS,12.66666667,#N/A
+OO,BJI,156,#N/A
+OO,BLI,28.5,#N/A
+OO,BMI,-1.666666667,#N/A
+OO,BNA,44.53333333,#N/A
+OO,BOI,-0.88,#N/A
+OO,BRD,32,#N/A
+OO,BTM,-5,#N/A
+OO,BTR,20,#N/A
+OO,BTV,,#N/A
+OO,BUF,58.25,#N/A
+OO,BUR,25,#N/A
+OO,BZN,50.7,#N/A
+OO,CAK,1.5,#N/A
+OO,CDC,-9,#N/A
+OO,CGI,105,#N/A
+OO,CHA,9,#N/A
+OO,CHO,11.5,#N/A
+OO,CHS,72.5,#N/A
+OO,CID,52.5,#N/A
+OO,CIU,18,#N/A
+OO,CKB,72.5,#N/A
+OO,CLE,22.875,#N/A
+OO,CLT,-7,#N/A
+OO,CMH,10.66666667,#N/A
+OO,CMX,,#N/A
+OO,COD,-10,#N/A
+OO,COS,-4.769230769,#N/A
+OO,COU,7,#N/A
+OO,CPR,-10,#N/A
+OO,CVG,4.5,#N/A
+OO,CWA,91,#N/A
+OO,DAL,-4.5,#N/A
+OO,DAY,199.3333333,#N/A
+OO,DCA,103,#N/A
+OO,DEN,19.38297872,#N/A
+OO,DFW,74.27272727,#N/A
+OO,DHN,-4,#N/A
+OO,DLH,7.333333333,#N/A
+OO,DRO,5.4,#N/A
+OO,DSM,76,#N/A
+OO,DTW,25.05263158,#N/A
+OO,DVL,102,#N/A
+OO,EAU,600.5,#N/A
+OO,EGE,75,#N/A
+OO,EKO,-15,#N/A
+OO,ELP,-3.5,#N/A
+OO,ERI,-5.333333333,#N/A
+OO,ESC,-2,#N/A
+OO,EUG,5.857142857,#N/A
+OO,EVV,140.5,#N/A
+OO,FAR,69,#N/A
+OO,FAT,18.94444444,#N/A
+OO,FCA,11.42857143,#N/A
+OO,FLG,-9.5,#N/A
+OO,FNT,3.5,#N/A
+OO,FSD,-7.5,#N/A
+OO,FWA,33.7,#N/A
+OO,GCC,201.5,#N/A
+OO,GEG,-4.8,#N/A
+OO,GJT,-5.4,#N/A
+OO,GRB,0.5,#N/A
+OO,GRR,80.83333333,#N/A
+OO,GSP,-8,#N/A
+OO,GTF,10,#N/A
+OO,GTR,-4,#N/A
+OO,HDN,-6.333333333,#N/A
+OO,HIB,-4,#N/A
+OO,HLN,-4,#N/A
+OO,HSV,74,#N/A
+OO,HYS,-3,#N/A
+OO,IAD,46,#N/A
+OO,IAH,36.84615385,#N/A
+OO,ICT,68.28571429,#N/A
+OO,IDA,-7.4,#N/A
+OO,IFP,5,#N/A
+OO,IMT,4,#N/A
+OO,IND,84.66666667,#N/A
+OO,INL,-13.5,#N/A
+OO,ISN,10,#N/A
+OO,ITH,-11.5,#N/A
+OO,JAC,85.6,#N/A
+OO,JMS,71,#N/A
+OO,LAN,-2.5,#N/A
+OO,LAR,3.5,#N/A
+OO,LAS,21.33333333,#N/A
+OO,LAX,19.95180723,#N/A
+OO,LBB,1,#N/A
+OO,LEX,-7.5,#N/A
+OO,LFT,69,#N/A
+OO,LGA,7.125,#N/A
+OO,LGB,-6.5,#N/A
+OO,LNK,12,#N/A
+OO,LSE,93.6,#N/A
+OO,LWS,12.5,#N/A
+OO,MAF,-10,#N/A
+OO,MBS,49.85714286,#N/A
+OO,MCI,7,#N/A
+OO,MDT,105.5,#N/A
+OO,MDW,-10,#N/A
+OO,MEI,74.33333333,#N/A
+OO,MEM,-1,#N/A
+OO,MFR,1.636363636,#N/A
+OO,MGM,27,#N/A
+OO,MKE,6,#N/A
+OO,MKG,,#N/A
+OO,MLI,6.5,#N/A
+OO,MLU,-2,#N/A
+OO,MMH,21,#N/A
+OO,MOB,-7,#N/A
+OO,MOT,13,#N/A
+OO,MQT,8,#N/A
+OO,MRY,-11.16666667,#N/A
+OO,MSN,19.28571429,#N/A
+OO,MSO,17.33333333,#N/A
+OO,MSP,19.01219512,#N/A
+OO,MTJ,-2.5,#N/A
+OO,OAK,6.5,#N/A
+OO,OKC,28,#N/A
+OO,OMA,22.11111111,#N/A
+OO,ONT,11.57142857,#N/A
+OO,ORD,76.07142857,#N/A
+OO,ORF,-4,#N/A
+OO,OTH,55,#N/A
+OO,PAH,,#N/A
+OO,PBI,0,#N/A
+OO,PDX,1.315789474,#N/A
+OO,PHL,129,#N/A
+OO,PHX,3.081081081,#N/A
+OO,PIA,94.75,#N/A
+OO,PIB,1.5,#N/A
+OO,PIH,-10,#N/A
+OO,PLN,-3.5,#N/A
+OO,PSC,1.888888889,#N/A
+OO,PSP,39.61538462,#N/A
+OO,PUB,-7,#N/A
+OO,RAP,61.4,#N/A
+OO,RDD,-13.66666667,#N/A
+OO,RDM,55.33333333,#N/A
+OO,RDU,24.66666667,#N/A
+OO,RHI,-6,#N/A
+OO,RIC,3,#N/A
+OO,RKS,-3.5,#N/A
+OO,RNO,-1.2,#N/A
+OO,ROA,-2,#N/A
+OO,ROW,2,#N/A
+OO,RST,102.5,#N/A
+OO,SAF,-8,#N/A
+OO,SAN,52.2,#N/A
+OO,SAT,0.75,#N/A
+OO,SAV,-4,#N/A
+OO,SBA,4.909090909,#N/A
+OO,SBN,23.28571429,#N/A
+OO,SBP,19.85714286,#N/A
+OO,SCE,-1.5,#N/A
+OO,SDF,-11,#N/A
+OO,SEA,22.75,#N/A
+OO,SFO,12.7,#N/A
+OO,SGU,-5.75,#N/A
+OO,SHV,8.6,#N/A
+OO,SJC,33.55555556,#N/A
+OO,SLC,2.84,#N/A
+OO,SMF,-3.428571429,#N/A
+OO,SNA,11.5,#N/A
+OO,SPI,180,#N/A
+OO,STL,5.428571429,#N/A
+OO,STS,-8.8,#N/A
+OO,SUN,-3.4,#N/A
+OO,SWF,37.5,#N/A
+OO,SYR,17.2,#N/A
+OO,TOL,187,#N/A
+OO,TRI,-10,#N/A
+OO,TUL,13.4,#N/A
+OO,TUS,0.3125,#N/A
+OO,TVC,79.6,#N/A
+OO,TWF,-4.666666667,#N/A
+OO,TYS,12,#N/A
+OO,UIN,56.5,#N/A
+OO,XNA,-7.666666667,#N/A
+OO,YUM,-7.75,#N/A
+UA,ABQ,-4,#N/A
+UA,ALB,55.5,#N/A
+UA,ANC,0,#N/A
+UA,ATL,4.153846154,#N/A
+UA,AUS,-1.823529412,#N/A
+UA,AVL,57,#N/A
+UA,BDL,44,#N/A
+UA,BIL,1,#N/A
+UA,BNA,12,#N/A
+UA,BOI,-4.5,#N/A
+UA,BOS,21.87096774,#N/A
+UA,BUF,-3,#N/A
+UA,BWI,-1.222222222,#N/A
+UA,BZN,12.25,#N/A
+UA,CHS,-7,#N/A
+UA,CID,21,#N/A
+UA,CLE,21.71428571,#N/A
+UA,CLT,-5,#N/A
+UA,CVG,-2,#N/A
+UA,DCA,-4.833333333,#N/A
+UA,DEN,5.892405063,#N/A
+UA,DFW,4.3125,#N/A
+UA,DTW,17.5,#N/A
+UA,EGE,-5.4,#N/A
+UA,EUG,83,#N/A
+UA,EWR,20.34228188,#N/A
+UA,FLL,3.727272727,#N/A
+UA,GEG,-4.5,#N/A
+UA,GUC,5,#N/A
+UA,GUM,-7,#N/A
+UA,HDN,-3,#N/A
+UA,HNL,-2.473684211,#N/A
+UA,IAD,4.830769231,#N/A
+UA,IAH,7.378531073,#N/A
+UA,IND,50,#N/A
+UA,ITO,-9,#N/A
+UA,JAC,32,#N/A
+UA,JAX,101,#N/A
+UA,KOA,-4.833333333,#N/A
+UA,LAS,-4.56,#N/A
+UA,LAX,11.31034483,#N/A
+UA,LGA,12.36363636,#N/A
+UA,LIH,-8.2,#N/A
+UA,MCI,4,#N/A
+UA,MCO,15.86111111,#N/A
+UA,MEM,55,#N/A
+UA,MFE,,#N/A
+UA,MIA,2.333333333,#N/A
+UA,MKE,-5,#N/A
+UA,MSP,-3.2,#N/A
+UA,MSY,1.25,#N/A
+UA,MTJ,-12,#N/A
+UA,MYR,29,#N/A
+UA,OGG,-0.9,#N/A
+UA,OKC,-5,#N/A
+UA,OMA,41,#N/A
+UA,ONT,0.5,#N/A
+UA,ORD,24.83236994,#N/A
+UA,ORF,-4,#N/A
+UA,PBI,26.75,#N/A
+UA,PDX,2.954545455,#N/A
+UA,PHL,2.363636364,#N/A
+UA,PHX,-3.869565217,#N/A
+UA,PIT,-2.25,#N/A
+UA,PSP,9.333333333,#N/A
+UA,RDU,-1.5,#N/A
+UA,RIC,16.5,#N/A
+UA,RNO,-3.5,#N/A
+UA,ROC,0,#N/A
+UA,RSW,15.84615385,#N/A
+UA,SAN,13.67741935,#N/A
+UA,SAT,-1.333333333,#N/A
+UA,SAV,1,#N/A
+UA,SEA,10.15625,#N/A
+UA,SFO,9.668711656,#N/A
+UA,SJC,-2,#N/A
+UA,SJU,46.2,#N/A
+UA,SLC,-6.142857143,#N/A
+UA,SMF,20.88888889,#N/A
+UA,SNA,15.55555556,#N/A
+UA,SRQ,-0.333333333,#N/A
+UA,TPA,8.045454545,#N/A
+UA,TUS,4,#N/A
+UA,TYS,9,#N/A
+VX,AUS,17,#N/A
+VX,BNA,-8,#N/A
+VX,BOS,13.25,#N/A
+VX,BWI,-4,#N/A
+VX,DAL,2.222222222,#N/A
+VX,DCA,11.33333333,#N/A
+VX,DEN,3.5,#N/A
+VX,EWR,2.428571429,#N/A
+VX,FLL,6.75,#N/A
+VX,HNL,-6,#N/A
+VX,IAD,4.5,#N/A
+VX,IND,-5,#N/A
+VX,JFK,2,#N/A
+VX,KOA,-5,#N/A
+VX,LAS,1.181818182,#N/A
+VX,LAX,4,#N/A
+VX,MCO,21,#N/A
+VX,MSY,-9,#N/A
+VX,OGG,5.5,#N/A
+VX,ORD,7.4,#N/A
+VX,PDX,-0.5,#N/A
+VX,PHL,10,#N/A
+VX,PSP,19.66666667,#N/A
+VX,RDU,0,#N/A
+VX,SAN,22.4,#N/A
+VX,SEA,-4.666666667,#N/A
+VX,SFO,8.180327869,#N/A
+WN,ABQ,19.78125,#N/A
+WN,ALB,20.5,#N/A
+WN,AMA,64,#N/A
+WN,ATL,35.85714286,#N/A
+WN,AUS,15.34375,#N/A
+WN,BDL,19.52631579,#N/A
+WN,BHM,8.333333333,#N/A
+WN,BNA,33.76666667,#N/A
+WN,BOI,7.636363636,#N/A
+WN,BOS,39.88235294,#N/A
+WN,BUF,8.705882353,#N/A
+WN,BUR,18.19642857,#N/A
+WN,BWI,18.39622642,#N/A
+WN,CHS,5.857142857,#N/A
+WN,CLE,19.73684211,#N/A
+WN,CLT,-0.125,#N/A
+WN,CMH,23.29411765,#N/A
+WN,CRP,8,#N/A
+WN,CVG,10.875,#N/A
+WN,DAL,26.54494382,#N/A
+WN,DCA,20.23809524,#N/A
+WN,DEN,21.29166667,#N/A
+WN,DSM,38.33333333,#N/A
+WN,DTW,13.66666667,#N/A
+WN,ECP,10.33333333,#N/A
+WN,ELP,13.05,#N/A
+WN,EWR,21.85,#N/A
+WN,FLL,28.07462687,#N/A
+WN,FNT,11.66666667,#N/A
+WN,GEG,0.9,#N/A
+WN,GRR,15.2,#N/A
+WN,GSP,-3.333333333,#N/A
+WN,HOU,16.85416667,#N/A
+WN,HRL,4.5,#N/A
+WN,IAD,74,#N/A
+WN,ICT,37,#N/A
+WN,IND,11.21212121,#N/A
+WN,ISP,53.15384615,#N/A
+WN,JAX,12.41666667,#N/A
+WN,LAS,18.02985075,#N/A
+WN,LAX,17.952,#N/A
+WN,LBB,6.142857143,#N/A
+WN,LGA,64.25806452,#N/A
+WN,LGB,22.14285714,#N/A
+WN,LIT,15.28571429,#N/A
+WN,MAF,9.777777778,#N/A
+WN,MCI,19.27536232,#N/A
+WN,MCO,20.52212389,#N/A
+WN,MDW,34.67248908,#N/A
+WN,MEM,20.33333333,#N/A
+WN,MHT,28.07142857,#N/A
+WN,MKE,19.66666667,#N/A
+WN,MSP,15.17391304,#N/A
+WN,MSY,27.76363636,#N/A
+WN,OAK,18.05172414,#N/A
+WN,OKC,18.84210526,#N/A
+WN,OMA,19.27777778,#N/A
+WN,ONT,17.16666667,#N/A
+WN,ORF,18.28571429,#N/A
+WN,PBI,19.5,#N/A
+WN,PDX,13.825,#N/A
+WN,PHL,6.423076923,#N/A
+WN,PHX,18.54761905,#N/A
+WN,PIT,15.21428571,#N/A
+WN,PNS,5.333333333,#N/A
+WN,PVD,17.3,#N/A
+WN,PWM,8.333333333,#N/A
+WN,RDU,13.37931034,#N/A
+WN,RIC,6.333333333,#N/A
+WN,RNO,13.38095238,#N/A
+WN,ROC,10.4,#N/A
+WN,RSW,10.73684211,#N/A
+WN,SAN,49.06741573,#N/A
+WN,SAT,22.86363636,#N/A
+WN,SDF,-0.090909091,#N/A
+WN,SEA,22.75,#N/A
+WN,SFO,25.56862745,#N/A
+WN,SJC,23.64,#N/A
+WN,SJU,6.5,#N/A
+WN,SLC,20.4375,#N/A
+WN,SMF,23.675,#N/A
+WN,SNA,27.80769231,#N/A
+WN,STL,29.71698113,#N/A
+WN,TPA,26.17948718,#N/A
+WN,TUL,13,#N/A
+WN,TUS,25.36363636,#N/A
+YV,ABQ,-0.111111111,#N/A
+YV,AMA,,#N/A
+YV,ATL,-1.666666667,#N/A
+YV,AUS,-2.333333333,#N/A
+YV,BDL,17.5,#N/A
+YV,BFL,-4,#N/A
+YV,BHM,,#N/A
+YV,BIS,82,#N/A
+YV,BMI,16,#N/A
+YV,BNA,4.5,#N/A
+YV,BOI,28,#N/A
+YV,BOS,6,#N/A
+YV,BRO,-5.5,#N/A
+YV,BTR,36,#N/A
+YV,BTV,37,#N/A
+YV,BUF,-5,#N/A
+YV,BUR,31,#N/A
+YV,BZN,,#N/A
+YV,CAE,2,#N/A
+YV,CHA,137,#N/A
+YV,CHS,30,#N/A
+YV,CLE,-2.2,#N/A
+YV,CLT,-4.8,#N/A
+YV,CMH,14.33333333,#N/A
+YV,CRP,55.5,#N/A
+YV,CVG,-6.4,#N/A
+YV,DCA,-1,#N/A
+YV,DFW,37.01234568,#N/A
+YV,DRO,1.4,#N/A
+YV,DSM,139,#N/A
+YV,DTW,-0.666666667,#N/A
+YV,ELP,17.25,#N/A
+YV,EVV,5.666666667,#N/A
+YV,FAT,44,#N/A
+YV,FSD,,#N/A
+YV,FWA,4,#N/A
+YV,GPT,-3,#N/A
+YV,GRI,9,#N/A
+YV,GRK,,#N/A
+YV,GSO,217,#N/A
+YV,HOU,12.6,#N/A
+YV,HRL,-1.5,#N/A
+YV,HSV,-5.5,#N/A
+YV,IAD,78.08695652,#N/A
+YV,IAH,18.27692308,#N/A
+YV,ICT,-12,#N/A
+YV,ILM,-5,#N/A
+YV,IND,5,#N/A
+YV,JAN,51,#N/A
+YV,JAX,-4,#N/A
+YV,LBB,,#N/A
+YV,LFT,-0.5,#N/A
+YV,LGA,7,#N/A
+YV,LGB,-6,#N/A
+YV,LIT,0.5,#N/A
+YV,MAF,54,#N/A
+YV,MCI,5.857142857,#N/A
+YV,MEM,14.42857143,#N/A
+YV,MFE,20.75,#N/A
+YV,MGM,-2,#N/A
+YV,MLI,120,#N/A
+YV,MOB,-2,#N/A
+YV,MRY,-5.333333333,#N/A
+YV,MSP,19.5,#N/A
+YV,MSY,4.666666667,#N/A
+YV,MTJ,-3,#N/A
+YV,OKC,10.33333333,#N/A
+YV,OMA,15.25,#N/A
+YV,ONT,7,#N/A
+YV,ORF,-8,#N/A
+YV,PHL,28,#N/A
+YV,PHX,9.888888889,#N/A
+YV,PIA,16.5,#N/A
+YV,PIT,-1.8,#N/A
+YV,PNS,-3.5,#N/A
+YV,PSP,-1,#N/A
+YV,PVD,-6,#N/A
+YV,RAP,31,#N/A
+YV,RDU,-0.25,#N/A
+YV,RIC,-5,#N/A
+YV,RNO,-13,#N/A
+YV,ROC,3.333333333,#N/A
+YV,ROW,,#N/A
+YV,SAT,126,#N/A
+YV,SAV,-4,#N/A
+YV,SBA,-10.5,#N/A
+YV,SBP,-8,#N/A
+YV,SDF,58.5,#N/A
+YV,STL,-6,#N/A
+YV,TUL,-2,#N/A
+YV,TUS,-4,#N/A
+YV,TYS,19.5,#N/A
+YV,VPS,-5,#N/A
+YX,ABQ,-12,#N/A
+YX,ALB,2.666666667,#N/A
+YX,ATL,3.857142857,#N/A
+YX,AUS,183.6666667,#N/A
+YX,BDL,2.111111111,#N/A
+YX,BGR,-3,#N/A
+YX,BNA,19.36363636,#N/A
+YX,BOI,354,#N/A
+YX,BOS,2.166666667,#N/A
+YX,BTV,-8,#N/A
+YX,BUF,10.75,#N/A
+YX,BWI,-1.25,#N/A
+YX,BZN,0,#N/A
+YX,CHS,-0.666666667,#N/A
+YX,CLE,24.33333333,#N/A
+YX,CLT,12.21052632,#N/A
+YX,CMH,3.541666667,#N/A
+YX,COS,8.5,#N/A
+YX,CVG,19.71428571,#N/A
+YX,DCA,7,#N/A
+YX,DEN,25,#N/A
+YX,DFW,-5.818181818,#N/A
+YX,DTW,12.72413793,#N/A
+YX,EWR,11.81666667,#N/A
+YX,EYW,-1.833333333,#N/A
+YX,GRR,-3,#N/A
+YX,IAD,5,#N/A
+YX,IAH,5.777777778,#N/A
+YX,ICT,-15,#N/A
+YX,ILM,-7,#N/A
+YX,IND,2.035714286,#N/A
+YX,JAX,8.285714286,#N/A
+YX,JFK,19,#N/A
+YX,LGA,21.74468085,#N/A
+YX,MCI,59.3,#N/A
+YX,MEM,6.857142857,#N/A
+YX,MHT,-1.5,#N/A
+YX,MIA,-0.261904762,#N/A
+YX,MKE,107.3333333,#N/A
+YX,MSP,6.263157895,#N/A
+YX,MSY,33,#N/A
+YX,MYR,-6,#N/A
+YX,OKC,-5.666666667,#N/A
+YX,OMA,-6,#N/A
+YX,ORD,14.2745098,#N/A
+YX,ORF,11.77777778,#N/A
+YX,PBI,6,#N/A
+YX,PHF,-3,#N/A
+YX,PHL,15.67857143,#N/A
+YX,PIT,-0.714285714,#N/A
+YX,PNS,-4,#N/A
+YX,PVD,5,#N/A
+YX,PWM,-1,#N/A
+YX,RAP,-2,#N/A
+YX,RDU,18.5,#N/A
+YX,RIC,31,#N/A
+YX,ROC,-0.333333333,#N/A
+YX,RSW,17.5,#N/A
+YX,SAT,-3,#N/A
+YX,SAV,1,#N/A
+YX,SDF,24.63636364,#N/A
+YX,SLC,-7,#N/A
+YX,STL,19.2,#N/A
+YX,SYR,12.2,#N/A
+YX,XNA,98,#N/A
