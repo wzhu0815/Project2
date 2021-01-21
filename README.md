@@ -8,7 +8,7 @@
 
  **We decided to review flight delays and cancellations from various airlines and airports in the United States. Although there is a lot of data containing flight delays and cancellations, we sourced the data from Kaggle.com and analyzed it for January 1, 2018.**  
 
-**We developed a website using various tools containing general information on flight delays and cancellations. The website includes** 
+**We developed a website using various tools containing general information on flight delays and cancellations. The website includes:** 
 - General Information about Flight Delays & Cancellations
 - A dashboard that will allow the user to gather information on flight delay and cancellation for a specific airlines and airports
 - Map displaying the cities with airports with flight delays information
